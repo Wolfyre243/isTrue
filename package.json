@@ -1,0 +1,28 @@
+{
+  "name": "@useless-thingys/istrue",
+  "version": "1.0.0",
+  "description": "Helps you check if a value is true. Returns true if so.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfyre243/isTrue.git"
+  },
+  "keywords": [
+    "utility",
+    "troll",
+    "fun",
+    "printing",
+    "command",
+    "line",
+    "useless"
+  ],
+  "author": "Wolfyre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolfyre243/isTrue/issues"
+  },
+  "homepage": "https://github.com/Wolfyre243/isTrue#readme"
+}
